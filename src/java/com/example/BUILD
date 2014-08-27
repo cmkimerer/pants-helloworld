@@ -1,4 +1,4 @@
-scala_library(name='hello-world-java-lib',
+java_library(name='hello-world-java-lib',
   dependencies=[],
   sources=globs('*.java'),
   provides=artifact(org='com.example.java',
