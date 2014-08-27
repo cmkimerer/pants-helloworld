@@ -15,9 +15,6 @@ be stripped out of here to make this even more concise, please submit a pull req
 * Running Scala Applications
 
 #### So how do I use this?
-You must first have installed [sbt](http://www.scala-sbt.org/).  There may be some way to do this as part of 
-the repo, but I couldn't figure out how.
-
 I used a virtualenv for the pants installation.  And I did the following for it:
 
     $ virtualenv somedir --no-site-packages
